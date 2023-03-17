@@ -10,7 +10,7 @@ export const photos = [
     height: 1
   },
   {
-    src: "https://source.unsplash.com/qDkso9nvCg0/600x799",
+    src: "https://source.unsplash.com/qDkso9nvCg0/600x1000",
     width: 3,
     height: 4
   },
