@@ -11,6 +11,7 @@
     "react-photo-gallery": "8.0.0"
   },
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "react-scripts": "1.0.0"
   },
   "scripts": {
